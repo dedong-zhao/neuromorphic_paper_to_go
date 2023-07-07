@@ -1,1 +1,11 @@
-# Journals and Conferences in the field of Neuromorphic Computing.
+# Journals and Conferences in the field of Neuromorphic Computing
+## 1. [IEEE International Solid-State Circuits Conference (ISSCC)](https://www.isscc.org/)
+## 2. [IEEE Symposium on VLSI Technology and Circuits (VLSI)](https://www.vlsisymposium.org/)
+## 3. [IEEE European Solid-State Circuits Conference (ESSCIRC)](https://www.esscirc-essderc2023.org/)
+## 4. [ACM/IEEE International Symposium on Low Power Electronics and Design (ILSPED)](https://www.islped.org/)
+## 5. [IEEE Custom Integrated Circuits Conference (CICC)](https://www.ieee-cicc.org/)
+## 6. [IEEE Computer Society Annual Symposium on VLSI (ISVLSI)](https://www.ufrgs.br/isvlsi2023/index.php)
+## 7. [ACM Great Lakes Symposium on VLSI (GLVLSI)](https://www.glsvlsi.org/index.html)
+## 8. [IEEE International Symposium on Circuits and Systems (ISCAS)](https://ieee-cas.org/event/conference/2023-ieee-international-symposium-circuits-and-systems#:~:text=The%20IEEE%20International%20Symposium%20on,implementation%20of%20circuits%20and%20systems.)
+## 9. [IEEE International Conference on Electronics Circuits and Systems (ICECS)](https://ieee-cas.org/event/conference/2023-ieee-30th-international-conference-electronics-circuits-and-systems)
+## 10. [()]()
