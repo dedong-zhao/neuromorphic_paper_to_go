@@ -24,8 +24,9 @@
 ### Journals
 #### 1. IEEE Journal of Solid-State Circuits (JSSC)
 #### 2. IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I)
-#### 3. IEEE Transactions on Circuits and Systems II: Express Briefs (TCAS-II)
-#### 4. IEEE Transactions on Very Large Scale Integration (VLSI) Systems (TVLSI)
-#### 5. IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS)
-#### 6. IEEE Transactions on Emerging Topics in Computing(TETC)
+#### 3. IEEE Transactions on Biomedical Circuits and Systems (TBioCAS)
+#### 4. IEEE Transactions on Circuits and Systems II: Express Briefs (TCAS-II)
+#### 5. IEEE Transactions on Very Large Scale Integration (VLSI) Systems (TVLSI)
+#### 6. IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS)
+#### 7. IEEE Transactions on Emerging Topics in Computing(TETC)
 
